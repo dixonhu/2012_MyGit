@@ -1,0 +1,9 @@
+total 28
+drwxr-xr-x 5 dixon dixon 4096 Dec 18 17:41 ./
+drwxr-xr-x 8 dixon dixon 4096 Dec 18 17:36 ../
+-rw-rw-r-- 1 dixon dixon    0 Dec 18 17:41 dir.txt
+-rw-rw-r-- 1 dixon dixon   29 Dec 18 17:37 first_notes.txt
+drwxrwxr-x 8 dixon dixon 4096 Dec 18 17:37 .git/
+drwxrwxr-x 2 dixon dixon 4096 Dec 18 17:35 Mark/
+-rw-rw-r-- 1 dixon dixon   43 Dec 18 17:25 README.md
+drwxrwxr-x 2 dixon dixon 4096 Dec 18 17:35 Tom/
